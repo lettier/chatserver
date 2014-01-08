@@ -4,5 +4,7 @@
 
 Simple command line chat server. Utilizes user-names and handles duplicate user-names.  
 
+Use Telnet as the client.
+
 _(C) 2014 David Lettier._  
 http://www.lettier.com/
